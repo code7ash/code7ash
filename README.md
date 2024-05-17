@@ -1,3 +1,4 @@
+![logo](https://github.com/code7ash/code7ash/blob/main/Blue%20White%20Futuristic%20Future%20Technology%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ashir</h1>
 <h3 align="center">A passionate developer from the middle of nowhere</h3>
 
